@@ -7,6 +7,7 @@
     <li>KMP.cpp : Knuth-Morris-Pratt string matching</li>
     <li>MatrixPower.cpp</li>
     <li>LCA.cpp : Lowest common ancestor algorithm</li>
+    <li>BranchAndBound.cpp : BranchAndBound implementation for solving TSP problem</li>
 </ul>
 
 ## Template
