@@ -8,6 +8,7 @@
     <li>MatrixPower.cpp</li>
     <li>LCA.cpp : Lowest common ancestor algorithm</li>
     <li>BranchAndBound.cpp : BranchAndBound implementation for solving TSP problem</li>
+    <li>TarjanSCC.cpp : Tarjan SCC algorithm</li>
 </ul>
 
 ## Template
