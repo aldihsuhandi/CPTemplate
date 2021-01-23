@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-const int maxN = 1e5 + 5;
+const int maxN = 1e4 + 5;
 const int INF = 1e9;
 int adj[maxN][maxN]; // -1 if there is no road
 int dp[maxN][maxN];
