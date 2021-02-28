@@ -1,3 +1,6 @@
+#include<bits/stdc++.h>
+using namespace std;
+
 const int max_n = 1e6 + 1;
 const int level = 20;
 vector<int> vert[max_n];

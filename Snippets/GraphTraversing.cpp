@@ -35,7 +35,7 @@ vector<bool> DFS(int start = 0)
 {
     vector<bool> vis(n, false);
     stack<int> st;
-    vis[start] = 0;
+    vis[start] = 1;
     st.push(start);
     while(st.empty() == false){
         int from, to;

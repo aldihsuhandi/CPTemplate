@@ -6,6 +6,7 @@ struct node
     long long sum, add;
 };
 struct node seg[4 * max_n + 5];
+int arr[max_n];
 
 void build(int low = 1, int high = n, int idx = 1)
 {
